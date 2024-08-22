@@ -1,6 +1,8 @@
 # Schwartz Basiswaarden (Schwartz Basic Values)
 De Schwartz Basiswaarden zijn een set van intercultureel gevalideerde waarden die ieder mens herkent. Ieder persoon heeft zijn eigen prioriteit waarin waarden belangrijker voor hem zijn, maar alle waarden zijn aanwezig in ieder persoon. De tien waarden zijn gegroepeerd in vier clusters. Gemiddeld hebben de meeste mensen een voorkeur voor één cluster boven de andere.
 
+De waarden kun je combineren met competenties, waardoor een meer verbindend gesprek kan worden gevoerd in teams en de koppeling goed kan worden gelegd met de missie/visie en het product waaraan gewerkt wordt.
+
 Gelicentieerd door Scrum Facilitators onder CC-BY-SA-4.0
 
 # Bronnen
