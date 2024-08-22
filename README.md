@@ -1,13 +1,13 @@
-# Schwartz-Universal-Values
-The Schwartz Universal Values is a set of interculturally validated values that every human recognizes. Every person has their own priority in which values are more important to them, yet all values are present in every person. The 10 values are grouped in four clusters. On average, most people have a preference for one cluster over the others.
+# Schwartz Basiswaarden (Schwartz Basic Values)
+De Schwartz Basiswaarden zijn een set van intercultureel gevalideerde waarden die ieder mens herkent. Ieder persoon heeft zijn eigen prioriteit waarin waarden belangrijker voor hem zijn, maar alle waarden zijn aanwezig in ieder persoon. De tien waarden zijn gegroepeerd in vier clusters. Gemiddeld hebben de meeste mensen een voorkeur voor één cluster boven de andere.
 
-Licensed by Scrum Facilitators under CC-BY-SA-4.0
+Gelicentieerd door Scrum Facilitators onder CC-BY-SA-4.0
 
-# Resources
-Description of the value clusters is based on the syllabus ’Basiskennis Vitaliteit’ van Chivo.nl combined with insights from various modules from their Vitality Expert course (Vitaliteitskundige).
+# Bronnen
+De beschrijving van de waardeclusters is gebaseerd op de syllabus 'Basiskennis Vitaliteit' van [Chivo.nl](https://chivo.nl), gecombineerd met inzichten uit de syllabi en het bijwonen van verschillende modules van de opleiding '[Vitaliteitskundige](https://chivo.nl/vitaliteitskundige/)'.
 
-A decent short description of the theory in dutch can be found here https://progressiegerichtwerken.nl/waarden-en-wijsheid-hoe-we-wijzer-kunnen-worden/
+Een goede korte beschrijving van de theorie in het Nederlands is hier te vinden https://progressiegerichtwerken.nl/waarden-en-wijsheid-hoe-we-wijzer-kunnen-worden/
 
-The descriptions of the 10 values are based on the paper "Moraliteitontwikkeling en de 10 waardentheorie van Schwartz - scriptie_J_Kleyweg" which is archived under the resources folder.
+De beschrijvingen van de tien waarden zijn gebaseerd op het artikel "Moraliteitontwikkeling en de 10 waardentheorie van Schwartz - scriptie_J_Kleyweg". Deze vind je gearchiveerd onder de map bronnen.
 
-Want to fill out a test to get your personal values and more, a good, concise test is available in DUTCH at https://chivo.nl/idplein/ (note this is not a full comprehensive test but if you fill it out honestly, it does provide some valuable insights you could work with by yourself, with a coach or your team).
+Wil je een test invullen om je persoonlijke waarden en meer te krijgen, dan is er een goede, beknopte test beschikbaar in het NEDERLANDS op https://chivo.nl/idplein/ (let op, dit is geen volledige uitgebreide test, maar als je hem eerlijk invult, levert hij wel waardevolle inzichten op waarmee je zelf, met een coach of je team aan de slag kunt).
