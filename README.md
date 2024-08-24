@@ -12,4 +12,6 @@ Een goede korte beschrijving van de theorie in het Nederlands is hier te vinden 
 
 De beschrijvingen van de tien waarden zijn gebaseerd op het artikel "Moraliteitontwikkeling en de 10 waardentheorie van Schwartz - scriptie_J_Kleyweg". Deze vind je gearchiveerd onder de map bronnen.
 
+De definities van de Inspirerende Competenties zijn verzameld uit verschillende bronnen, voor elke competentie is de bron vermeld in de PPT als notitie.
+
 Wil je een test invullen om je persoonlijke waarden en meer te krijgen, dan is er een goede, beknopte test beschikbaar in het NEDERLANDS op https://chivo.nl/idplein/ (let op, dit is geen volledige uitgebreide test, maar als je hem eerlijk invult, levert hij wel waardevolle inzichten op waarmee je zelf, met een coach of je team aan de slag kunt).
