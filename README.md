@@ -10,6 +10,8 @@ De beschrijving van de waardeclusters is gebaseerd op de syllabus 'Basiskennis V
 
 Een goede korte beschrijving van de theorie in het Nederlands is hier te vinden https://progressiegerichtwerken.nl/waarden-en-wijsheid-hoe-we-wijzer-kunnen-worden/
 
+Een uitgebreide beschrijving in het engels inclusief een alternatieve visual van het circumplex en een fijnere opdeling in basiswaarden vind je dit artikel van Schwartz https://doi.org/10.9707/2307-0919.1173 - via deze pagina kun je ook vragenlijsten vinden om te ondersteunen bij het vinden van je eigen waardenhiërarchie.
+
 De beschrijvingen van de tien waarden zijn gebaseerd op het artikel "Moraliteitontwikkeling en de 10 waardentheorie van Schwartz - scriptie_J_Kleyweg". Deze vind je gearchiveerd onder de map bronnen.
 
 De definities van de Inspirerende Competenties zijn verzameld uit verschillende bronnen, voor elke competentie is de bron vermeld in de PPT als notitie.
